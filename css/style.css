@@ -169,6 +169,7 @@ body {
 
 .container-four {
     padding-top: 64px;
+    padding-bottom: 64px;
 }
 
 .blue-box {
@@ -189,4 +190,12 @@ body {
     font-size: 18px;
     color: #c6d4ed;
     margin: 8px 0;
+}
+
+.footer {
+    padding-top: 32px;
+    padding-bottom: 32px;
+    text-align: center;
+    font-size: 18px;
+    color: #c6d4ed;
 }
